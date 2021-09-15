@@ -7,6 +7,7 @@ IfWinExist ahk_exe Discord.exe
 else
   Run "%USERPROFILE%\AppData\Local\Discord\Update.exe --processStart Discord.exe"
 
+BlockInput On
 WinWaitActive ahk_exe Discord.exe
 SendInput ^k
 SendInput {Text}public-relations
@@ -15,5 +16,6 @@ Send {Enter}
 SendInput {!}d{Space}bump
 Send {Enter}
 SetKeyDelay -1
+BlockInput Off
 WinActivate ahk_id %currentID%
 return
