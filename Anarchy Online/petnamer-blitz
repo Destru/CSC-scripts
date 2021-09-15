@@ -1,0 +1,30 @@
+/option PetName1 "Tran	smitter"
+/pet "Tran	smitter" rename "Tra	nsmitter"
+/delay 1000
+/pet "Tra	nsmitter" rename "Tr	ansmitter"
+/delay 1000
+/pet "Tr	ansmitter" rename "T	ransmitter"
+/delay 1000
+/pet "T	ransmitter" rename "	Transmitter"
+/delay 1000
+/pet "	Transmitter" rename "Tran	smitter"
+/delay 1000
+/pet "Tra	nsmitter" rename "Transmitter"
+/delay 1000
+/pet "Transmitter" rename "Transmitter"
+/delay 1000
+/pet "Transmitter" rename "Transmitter"
+/delay 1000
+/pet "Transmitter" rename "Transmitter"
+/delay 1000
+/pet "Transmitter" rename "Transmitter"
+/delay 1000
+/pet "Transmitter" rename "	Transmitter"
+/delay 1000
+/pet "	Transmitter" rename "AFK: Blitzing"
+/delay 4000
+/pet "AFK: Blitzing" rename "Twitch: NotDestru"
+/delay 4000
+/pet "Twitch: NotDestru" rename "Tran	smitter"
+/delay 1000
+/petnamer

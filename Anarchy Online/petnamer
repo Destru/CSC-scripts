@@ -1,0 +1,22 @@
+/option PetName1 "Tran	smitter"
+/pet "Tran	smitter" rename "Tra	nsmitter"
+/delay 1000
+/pet "Tra	nsmitter" rename "Tr	ansmitter"
+/delay 1000
+/pet "Tr	ansmitter" rename "T	ransmitter"
+/delay 1000
+/pet "T	ransmitter" rename "	Transmitter"
+/delay 1000
+/pet "	Transmitter" rename "Tran	smitter"
+/delay 1000
+/pet "Tran	smitter" rename "Tra	nsmitter"
+/delay 1000
+/pet "Tra	nsmitter" rename "Tr	ansmitter"
+/delay 1000
+/pet "Tr	ansmitter" rename "T	ransmitter"
+/delay 1000
+/pet "T	ransmitter" rename "	Transmitter"
+/delay 1000
+/pet "	Transmitter" rename "Tran	smitter"
+/delay 1000
+/petnamer

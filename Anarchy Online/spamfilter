@@ -1,0 +1,4 @@
+/text Adding common gold sellers and blocking them.
+/filter add [Mm][Mm][Oo][Oo][Kk]
+/filter add [Ee][Gg][Pp][Aa][Ll]
+/filter enable

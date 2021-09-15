@@ -1,0 +1,6 @@
+/text Resetting all pet names.
+/setoption PetName1 ""
+/setoption PetName2 ""
+/setoption PetName3 ""
+
+/pet rename "Tran	smitter"

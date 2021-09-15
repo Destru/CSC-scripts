@@ -1,0 +1,7 @@
+/t <font color=#FFFFFF>TMS</font> active
+/delay 70000
+/t <font color=#FFFFFF>TMS</font> down in <font color=#FFFFFF>10s</font>
+/delay 10000
+/t <font color=#FFFFFF>TMS</font> down
+/delay 40000
+/t <font color=#FFFFFF>TMS</font> up
