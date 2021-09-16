@@ -21,10 +21,10 @@
 /delay 1000
 /pet "Transmitter" rename "	Transmitter"
 /delay 1000
-/pet "	Transmitter" rename "AFK: Blitzing"
+/pet "	Transmitter" rename "AFK: cyberpunk.social"
 /delay 4000
-/pet "AFK: Blitzing" rename "Twitch: NotDestru"
+/pet "AFK: cyberpunk.social" rename "Twitch: NotDestru"
 /delay 4000
 /pet "Twitch: NotDestru" rename "Tran	smitter"
 /delay 1000
-/petnamer-blitz
+/petnamer-afk
