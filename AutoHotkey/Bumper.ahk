@@ -1,5 +1,6 @@
-; Cyberpunk Social Club
-; AutoHotkey Bumper (DISBOARD)
+; Cyberpunk Social Club (https://cyberpunk.social)
+; Discord Server Bumper
+
 currentID := WinExist("A")
 
 IfWinExist ahk_exe Discord.exe
@@ -14,6 +15,12 @@ SendInput {Text}public-relations
 Sleep 500
 Send {Enter}
 SendInput {!}d{Space}bump
+Send {Enter}
+Sleep 250
+SendInput *bump
+Send {Enter}
+Sleep 250
+SendInput ~bump
 Send {Enter}
 SetKeyDelay -1
 BlockInput Off
